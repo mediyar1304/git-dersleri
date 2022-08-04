@@ -1,6 +1,6 @@
 # git-dersleri
 
-## awesome- (ilgilendiğin alan/frameworl/dil)
+#### *==>* awesome- (ilgilendiğin alan/frameworl/dil)
 
 ![Readme Resmi](https://myoctocat.com/assets/images/base-octocat.svg)
 ## Projenin Amacı
