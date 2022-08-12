@@ -1,6 +1,6 @@
 # git-dersleri
 
-#### *==>* awesome- (ilgilendiğin alan/frameworl/dil)
+#### *==>* awesome- (ilgilendiğin alan/framework/dil)
 ###### https://notabug.org/koz.ross/awesome-c
 
 ![Readme Resmi](https://myoctocat.com/assets/images/base-octocat.svg)
